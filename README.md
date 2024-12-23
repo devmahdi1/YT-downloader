@@ -11,7 +11,7 @@ This Python script allows you to download and merge the best quality video and a
 ### Installing `ffmpeg`
 
 #### Windows
-1. Download `ffmpeg` from [FFmpeg's official site](https://ffmpeg.org/download.html).
+1. Download `ffmpeg` from [FFmpeg's official site]([https://github.com/BtbN/FFmpeg-Builds/releases]).
 2. Extract the ZIP file and add the `bin` directory to your system's PATH environment variable.
 
 #### macOS
@@ -31,8 +31,8 @@ sudo apt install ffmpeg
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/aswinop/yt-downloader.git
-   cd yt-downloader
+   https://github.com/devmahdi1/YT-downloader.git
+   cd YT-downloader
    ```
 
 2. Run the script:
