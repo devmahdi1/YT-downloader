@@ -1,3 +1,4 @@
+
 # YouTube Video Downloader
 
 This Python script allows you to download and merge the best quality video and audio from YouTube using `yt-dlp`. It automatically installs `yt-dlp` if it's not already installed on your system.
@@ -10,22 +11,17 @@ This Python script allows you to download and merge the best quality video and a
 ### Installing `ffmpeg`
 
 #### Windows
-
 1. Download `ffmpeg` from [FFmpeg's official site](https://github.com/BtbN/FFmpeg-Builds/releases).
 2. Extract the ZIP file and add the `bin` directory to your system's PATH environment variable.
 
 #### macOS
-
 Install `ffmpeg` using Homebrew:
-
 ```bash
 brew install ffmpeg
 ```
 
 #### Linux
-
 Install `ffmpeg` using your package manager. For example, on Ubuntu:
-
 ```bash
 sudo apt update
 sudo apt install ffmpeg
@@ -34,20 +30,17 @@ sudo apt install ffmpeg
 ## Usage
 
 1. Clone this repository:
-
    ```bash
-   git clone https://github.com/devmahdi1/YT-downloader.git
+   https://github.com/devmahdi1/YT-downloader.git
    cd YT-downloader
    ```
 
 2. Run the script:
-
    ```bash
    python download_video.py
    ```
 
 3. Select the method when prompted:
-
    ```
    Methods Available:-
      1) Auto Detect
@@ -59,13 +52,10 @@ sudo apt install ffmpeg
    ```
 
 4. Enter the YouTube video/music URL when prompted:
-
    ```
    Enter the YouTube video URL: https://www.youtube.com/watch?v=your-video-id
    ```
-
    OR
-
    ```
    Enter the Youtube Music URL: https://music.youtube.com/watch?v=your-video-id
    ```
