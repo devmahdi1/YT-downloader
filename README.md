@@ -11,7 +11,7 @@ This Python script allows you to download and merge the best quality video and a
 ### Installing `ffmpeg`
 
 #### Windows
-1. Download `ffmpeg` from [FFmpeg's official site]([https://github.com/BtbN/FFmpeg-Builds/releases]).
+1. Download `ffmpeg` from [FFmpeg's official site](https://github.com/BtbN/FFmpeg-Builds/releases).
 2. Extract the ZIP file and add the `bin` directory to your system's PATH environment variable.
 
 #### macOS
